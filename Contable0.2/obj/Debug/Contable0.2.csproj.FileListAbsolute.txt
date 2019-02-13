@@ -1,0 +1,15 @@
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\bin\Debug\Contable0.2.exe.config
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\bin\Debug\Contable0.2.exe
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\bin\Debug\Contable0.2.pdb
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0.2.csprojResolveAssemblyReference.cache
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0._2.LoginForm.resources
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0._2.MainForm.resources
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0._2.Properties.Resources.resources
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0.2.csproj.GenerateResource.Cache
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0.2.exe
+c:\users\cladius\documents\visual studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0.2.pdb
+C:\Users\Cladius\Documents\Visual Studio 2015\Projects\Contable0.2\Contable0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cladius\Documents\Visual Studio 2015\Projects\Contable0.2\Contable0.2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cladius\Documents\Visual Studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0._2.frmSale.resources
+C:\Users\Cladius\Documents\Visual Studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0._2.frmInv.resources
+C:\Users\Cladius\Documents\Visual Studio 2015\Projects\Contable0.2\Contable0.2\obj\Debug\Contable0._2.frmUser.resources
